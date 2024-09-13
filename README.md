@@ -1,4 +1,4 @@
-# ImageAnalystONNX-models
+# ImageAnalyst ONNX models
 
 This repository stores the ONNX models.
 
